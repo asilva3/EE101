@@ -1,0 +1,3 @@
+EE101: Introduction To Electronic Circuits
+
+Introduction to the physical basis and mathematical models of electrical components and circuits. Topics include circuit theorems (Thevenin and Norton Equivalents, Superposition), constant and sinusiodal inputs, natural and forced response of linear circuits. Introduction to circuit/network design, maximum power transfer, analog filters and circuit analysis using Matlab. Topics in elementary electronics including ampliphiers and feedback.
